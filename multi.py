@@ -1,3 +1,5 @@
+#Example to understand multiprocessing#
+
 from multiprocessing import Pool
 import time
 import numpy as np
